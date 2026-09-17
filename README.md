@@ -12,7 +12,7 @@ Este repositorio contiene el material práctico e interactivo para la sesión so
 1. **Configuración y Carga de Datos**: Ingestión automatizada del dataset sintético **OHDSI Eunomia** en **DuckDB**.
 2. **Recorrido por el Modelo OMOP CDM**: Arquitectura centrada en el paciente (, , , , , ).
 3. **Motor de Vocabularios y Jerarquías**: Mapeo de códigos fuente a conceptos estándar () y navegación de jerarquías clínicas mediante clausura transitiva ().
-4. **Pipeline ETL en 3 Fases**: Transformación paso a paso de historias clínicas crudas hacia tablas estándar ( $\to$  $\to$ ) con validación de esquemas oficiales con .
+4. **Pipeline ETL en 3 Fases**: Transformación paso a paso de historias clínicas crudas hacia tablas estándar ( ->  -> ) con validación de esquemas oficiales con .
 5. **Definición de Cohortes y Analítica Clínica**: Extracción SQL de cohortes incidentes y análisis de medicación concomitante con gráficos interactivos.
 
 ---
